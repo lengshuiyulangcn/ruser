@@ -4,6 +4,8 @@
 遇见了叼着面包片的女孩。
 [background=background/pic1.jpeg]
 我们撞到了一起。
+[flags=特么你走路不长眼睛？#test01.txt@0:妹子我想认识你#test.txt@7]
+[background=background/pic2.jpg]
 她轻声说了一声抱歉。然后迅速走开了。
 我:要是能再遇见就好了。
 game over
